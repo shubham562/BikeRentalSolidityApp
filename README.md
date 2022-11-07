@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/31349507/200353347-e70dc177-5662-4bb6-
 
 2. Upload the BikeRental.sol file in remix or just copy paste code in a empty .sol file
 
-3. Select a fresh account address & hit deploy button (with a initial supply of 70,000,000 ethers)
+3. Select a fresh account address & hit deploy button
 
 4. Now you can perform actions with the given functions accordingly.
 
